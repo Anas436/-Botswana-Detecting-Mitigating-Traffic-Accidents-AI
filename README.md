@@ -56,4 +56,6 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
-
+## Resources
+- Omdena Github Link [here](https://github.com/OmdenaAI/botswana-chapter-traffic-accidents)
+- Omdena Local Chapter Link [here](https://omdena.com/chapter-challenges/detecting-and-mitigating-traffic-accidents-using-machine-learning-and-traffic-data/)
